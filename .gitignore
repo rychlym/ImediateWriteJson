@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Launch settings
+**/Properties/launchSettings.json
+
+# Smart Command Line Arguments VS extension
+*.args.json
